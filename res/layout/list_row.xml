@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/myIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:tag="favicon" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tweet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1mm"
+        android:ellipsize="end"
+        android:scrollHorizontally="true"
+        android:tag="url"
+        android:text="tweet"
+        android:textColor="#C0C0C0" >
+    </TextView>
+
+</LinearLayout>

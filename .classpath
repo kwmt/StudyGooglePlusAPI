@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="libs/google-api-client-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-1.5.0-beta.jar" sourcepath="libs/google-oauth-client-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-extensions-android2-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-extensions-android2-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-extensions-android2-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-extensions-android2-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-extensions-android3-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-extensions-android3-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="libs/guava-r09.jar"/>
+	<classpathentry kind="lib" path="libs/libplus-sources.jar"/>
+	<classpathentry kind="lib" path="libs/libplus.jar" sourcepath="libs/libplus-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-1.5.0-beta-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/twitter4j-core-2.2.5.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
